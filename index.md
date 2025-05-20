@@ -12,3 +12,8 @@ $ git 初期化
 ``` ジャバスクリプト
 var myVar = "こんにちは、世界！";
 「」
+```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
